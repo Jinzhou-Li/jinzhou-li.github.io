@@ -32,11 +32,19 @@ Email: jinzhou.li@stat.math.ethz.ch
   [\[arXiv\]](https://arxiv.org/abs/2110.06627)
   [\[codes\]](https://github.com/ddeuber/extremal-qte-heavy-tailed)
 
-- **Estimation and worldwide monitoring of the effective reproductive number of SARS-CoV-2.**
-  <br>Jana S. Huisman, Jérémie Scire, Daniel C. Angst, **Jinzhou Li**, Richard A. Neher, Marloes H. Maathuis, Sebastian Bonhoeffer, Tanja Stadler (2021).
+- **estimateR: An R package to estimate and monitor the effective reproductive number.**
+  <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer, Tanja Stadler (2022).
   Submitted.
 
-  [\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2020.11.26.20239368v2)
+  [\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2022.06.30.22277095v1)
+  [\[codes\]](https://github.com/covid-19-Re/estimateR)
+
+- **Estimation and worldwide monitoring of the effective reproductive number of SARS-CoV-2.**
+  <br>Jana S. Huisman, Jérémie Scire, Daniel C. Angst, **Jinzhou Li**, Richard A. Neher, Marloes H. Maathuis, Sebastian Bonhoeffer, Tanja Stadler (2021).
+  *Elife 11, e71345.*
+
+  [\[published version\]](https://elifesciences.org/articles/71345)
+  [\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2020.11.26.20239368v4)
   [\[codes\]](https://github.com/covid-19-Re/paper-code)
   [\[website\]](https://ibz-shiny.ethz.ch/covid-19-re-international/)
 
