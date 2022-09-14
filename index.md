@@ -26,7 +26,7 @@ Email: jinzhou.li@stat.math.ethz.ch
 
 ### Publications and preprints
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
-  <br>David Deuber<sup>*</sup>, **Jinzhou Li<sup>*</sup>**, Sebastian Engelke, Marloes H. Maathuis (2021).
+  <br>David Deuber<sup>*</sup>, **Jinzhou Li<sup>*</sup>**, Sebastian Engelke, Marloes H. Maathuis (2022).
   Submitted.
 
   [\[arXiv\]](https://arxiv.org/abs/2110.06627)
