@@ -26,7 +26,7 @@ Email: jinzhou.li@stat.math.ethz.ch
 ### Publications and preprints
 - **Simultaneous false discovery proportion bounds via knockoffs and closed testing.**
   <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2022).
-  [In preparation](/assets/file/SimulFDPknockoff.pdf).
+  [In preparation](/assets/file/SimulFDPknockoff.pdf). 
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
   <br>David Deuber<sup>*</sup>, **Jinzhou Li<sup>*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2022).
