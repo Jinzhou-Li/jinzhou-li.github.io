@@ -14,6 +14,7 @@ Here is my [CV](/assets/file/CV_JinzhouLi.pdf).
 Email: jinzhou.li@stat.math.ethz.ch
 
 <!--- [Github](https://github.com/Jinzhou-Li) --->
+<!--- [Google Scholar](https://scholar.google.com/citations?user=xtPvl4UAAAAJ&hl=en&oi=ao) --->
 
 
 <br />
