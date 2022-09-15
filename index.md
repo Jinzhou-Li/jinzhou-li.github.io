@@ -9,12 +9,11 @@ Hi, I am a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs)
 
 Currently I am working on topics about selective inference and causality.
 
-Here is my [CV](/assets/file/CV_JinzhouLi.pdf).
+Here are my [CV](/assets/file/CV_JinzhouLi.pdf), [Github](https://github.com/Jinzhou-Li) and [Google Scholar](https://scholar.google.com/citations?user=xtPvl4UAAAAJ&hl=en&oi=ao).
 
 Email: jinzhou.li@stat.math.ethz.ch
 
-<!--- [Github](https://github.com/Jinzhou-Li) --->
-<!--- [Google Scholar](https://scholar.google.com/citations?user=xtPvl4UAAAAJ&hl=en&oi=ao) --->
+<!---  --->
 
 
 <br />
@@ -42,7 +41,7 @@ Email: jinzhou.li@stat.math.ethz.ch
   [\[codes\]](https://github.com/covid-19-Re/estimateR)
 
 - **Estimation and worldwide monitoring of the effective reproductive number of SARS-CoV-2.**
-  <br>Jana S. Huisman, Jérémie Scire, Daniel C. Angst, **Jinzhou Li**, Richard A. Neher, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2021).
+  <br>Jana S. Huisman, Jérémie Scire, Daniel C. Angst, **Jinzhou Li**, Richard A. Neher, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2022).
   *Elife 11, e71345.*
   <br>[\[published version\]](https://elifesciences.org/articles/71345)
   [\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2020.11.26.20239368v4)
