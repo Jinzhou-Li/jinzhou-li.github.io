@@ -46,7 +46,7 @@ Email: jinzhou.li@stat.math.ethz.ch
 
 - **Estimation and worldwide monitoring of the effective reproductive number of SARS-CoV-2.**
   <br>Jana S. Huisman, Jérémie Scire, Daniel C. Angst, **Jinzhou Li**, Richard A. Neher, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2022).
-  *Elife 11, e71345.*
+  *eLife 11, e71345.*
   <br>[\[published version\]](https://elifesciences.org/articles/71345)
   [\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2020.11.26.20239368v4)
   [\[codes\]](https://github.com/covid-19-Re/paper-code)
