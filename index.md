@@ -9,7 +9,9 @@ Hi, I am a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs)
 
 Currently I am working on topics about selective inference and causality.
 
+<!---
 Here are my [CV](/assets/file/CV_JinzhouLi.pdf), [Github](https://github.com/Jinzhou-Li) and [Google Scholar](https://scholar.google.com/citations?user=xtPvl4UAAAAJ&hl=en&oi=ao).
+ --->
 
 Email: jinzhou.li@stat.math.ethz.ch
 
@@ -26,7 +28,9 @@ Email: jinzhou.li@stat.math.ethz.ch
 ### Publications and preprints
 - **Simultaneous false discovery proportion bounds via knockoffs and closed testing.**
   <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2022).
-  [In preparation](/assets/file/SimulFDPknockoff.pdf).
+  Submitted.
+  <br>[\[arXiv\]](https://arxiv.org/abs/2212.12822)
+  [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
   <br>David Deuber<sup>*</sup>, **Jinzhou Li<sup>*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2022).
