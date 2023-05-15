@@ -5,15 +5,17 @@ profile_picture:
   alt: pic
 ---
 
-Hi, I am a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the [Department of Mathematics](https://math.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html). I am supervised by [Marloes Maathuis](https://stat.ethz.ch/~mmarloes) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
+Hi, I am a postdoctoral fellow in the [Statistics Department](https://statistics.stanford.edu/) at Stanford University under the supervision of [Emmanuel Candès](https://candes.su.domains/). Previously I was a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the Department of Mathematics at ETH Zürich, supervised by [Marloes Maathuis](https://stat.ethz.ch/~mmarloes) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
 
+<!--- 
 Currently I am working on topics about selective inference and causality.
+--->
 
 <!---
 Here are my [CV](/assets/file/CV_JinzhouLi.pdf), [Github](https://github.com/Jinzhou-Li) and [Google Scholar](https://scholar.google.com/citations?user=xtPvl4UAAAAJ&hl=en&oi=ao).
  --->
 
-Email: jinzhou.li@stat.math.ethz.ch
+Email: jinzhoul@stanford.edu
 
 <!---  --->
 
