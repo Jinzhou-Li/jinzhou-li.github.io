@@ -35,7 +35,7 @@ Email: jinzhoul@stanford.edu
   [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
-  <br>David Deuber<sup>*</sup>, **Jinzhou Li<sup>*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2022).
+  <br>David Deuber<sup>\*</sup>, **Jinzhou Li<sup>\*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2022).
   *Journal of the American Statistical Association, accepted.*
   <br>[\[arXiv\]](https://arxiv.org/abs/2110.06627)
   [\[codes\]](https://github.com/ddeuber/extremal-qte-heavy-tailed)
