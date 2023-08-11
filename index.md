@@ -36,12 +36,12 @@ Email: jinzhoul@stanford.edu
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
   <br>David Deuber<sup>*</sup>, **Jinzhou Li<sup>*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2022).
-  Submitted.
+  *Journal of the American Statistical Association, accepted.*
   <br>[\[arXiv\]](https://arxiv.org/abs/2110.06627)
   [\[codes\]](https://github.com/ddeuber/extremal-qte-heavy-tailed)
 
 - **estimateR: An R package to estimate and monitor the effective reproductive number.**
-  <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2022).
+  <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, Adrian Lison, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2022).
   Submitted.
   <br>[\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2022.06.30.22277095v1)
   [\[codes\]](https://github.com/covid-19-Re/estimateR)
