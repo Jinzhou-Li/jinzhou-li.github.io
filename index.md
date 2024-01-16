@@ -28,22 +28,30 @@ Email: jinzhoul@stanford.edu
 
 
 ### Publications and preprints
+- **Simultaneous false discovery bounds for invariant causal prediction.**
+  <br>**Jinzhou Li** (2024).
+  Submitted.
+  <br>[\[arXiv\]](https://arxiv.org/abs/2401.03834)
+  [\[codes\]](https://github.com/Jinzhou-Li/ICPsimultaneousBounds)
+
 - **Simultaneous false discovery proportion bounds via knockoffs and closed testing.**
-  <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2022).
+  <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2023).
   Submitted.
   <br>[\[arXiv\]](https://arxiv.org/abs/2212.12822)
   [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
-  <br>David Deuber<sup>\*</sup>, **Jinzhou Li<sup>\*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2022).
+  <br>David Deuber<sup>\*</sup>, **Jinzhou Li<sup>\*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2023).
   *Journal of the American Statistical Association, accepted.*
-  <br>[\[arXiv\]](https://arxiv.org/abs/2110.06627)
+  <br>[\[published version\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252141)
+  [\[arXiv\]](https://arxiv.org/abs/2110.06627)
   [\[codes\]](https://github.com/ddeuber/extremal-qte-heavy-tailed)
 
 - **estimateR: An R package to estimate and monitor the effective reproductive number.**
-  <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, Adrian Lison, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2022).
-  Submitted.
-  <br>[\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2022.06.30.22277095v1)
+  <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, Adrian Lison, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2023).
+  *BMC Bioinformatics 24, 310.*
+  <br>[\[published version\]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05428-4)
+  [\[medRxiv\]](https://www.medrxiv.org/content/10.1101/2022.06.30.22277095v1)
   [\[codes\]](https://github.com/covid-19-Re/estimateR)
 
 - **Estimation and worldwide monitoring of the effective reproductive number of SARS-CoV-2.**
