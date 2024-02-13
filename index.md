@@ -30,13 +30,13 @@ Email: jinzhoul@stanford.edu
 ### Publications and preprints
 - **Simultaneous false discovery bounds for invariant causal prediction.**
   <br>**Jinzhou Li** (2024).
-  Submitted.
+  Preprint.
   <br>[\[arXiv\]](https://arxiv.org/abs/2401.03834)
   [\[codes\]](https://github.com/Jinzhou-Li/ICPsimultaneousBounds)
 
 - **Simultaneous false discovery proportion bounds via knockoffs and closed testing.**
-  <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2023).
-  Submitted.
+  <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2024).
+  *Journal of the Royal Statistical Society, Series B, accepted.*
   <br>[\[arXiv\]](https://arxiv.org/abs/2212.12822)
   [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
