@@ -36,13 +36,13 @@ Email: jinzhoul@stanford.edu
 
 - **Simultaneous false discovery proportion bounds via knockoffs and closed testing.**
   <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2024).
-  *Journal of the Royal Statistical Society, Series B, accepted.*
+  *Journal of the Royal Statistical Society, Series B, forthcoming.*
   <br>[\[arXiv\]](https://arxiv.org/abs/2212.12822)
   [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
   <br>David Deuber<sup>\*</sup>, **Jinzhou Li<sup>\*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2023).
-  *Journal of the American Statistical Association, accepted.*
+  *Journal of the American Statistical Association, forthcoming.*
   <br>[\[published version\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252141)
   [\[arXiv\]](https://arxiv.org/abs/2110.06627)
   [\[codes\]](https://github.com/ddeuber/extremal-qte-heavy-tailed)
