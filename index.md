@@ -29,7 +29,7 @@ Email: jinzhoul@stanford.edu
 
 ### Publications and preprints
 - **On the error control of invariant causal prediction.**
-  <br>**Jinzhou Li and Jelle J. Goeman ** (2024).
+  <br>**Jinzhou Li** and Jelle J. Goeman (2024).
   Preprint.
   <br>[\[arXiv\]](https://arxiv.org/abs/2401.03834)
   [\[codes\]](https://github.com/Jinzhou-Li/ICPsimultaneousBounds)
