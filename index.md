@@ -5,7 +5,7 @@ profile_picture:
   alt: pic
 ---
 
-Hi, I am a postdoctoral fellow in the [Statistics Department](https://statistics.stanford.edu/) at Stanford University under the supervision of [Emmanuel Candès](https://candes.su.domains/). Previously I was a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the Department of Mathematics at ETH Zürich, supervised by [Marloes Maathuis](https://stat.ethz.ch/~mmarloes) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
+Hi, I am a postdoctoral fellow in the [Statistics Department](https://statistics.stanford.edu/) at Stanford University under the supervision of [Emmanuel Candès](https://candes.su.domains/). Previously I was a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the Department of Mathematics at ETH Zürich, supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
 
 <!--- 
 Currently I am working on topics about selective inference and causality.
@@ -28,8 +28,8 @@ Email: jinzhoul@stanford.edu
 
 
 ### Publications and preprints
-- **Simultaneous false discovery bounds for invariant causal prediction.**
-  <br>**Jinzhou Li** (2024).
+- **On the error control of invariant causal prediction.**
+  <br>**Jinzhou Li and Jelle J. Goeman ** (2024).
   Preprint.
   <br>[\[arXiv\]](https://arxiv.org/abs/2401.03834)
   [\[codes\]](https://github.com/Jinzhou-Li/ICPsimultaneousBounds)
