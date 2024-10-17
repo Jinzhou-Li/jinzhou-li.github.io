@@ -44,7 +44,7 @@ Email: jinzhoul@stanford.edu
   <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2024).
   *Journal of the Royal Statistical Society, Series B, 86(4): 966-986.*
   <br>[\[published version\]](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext)
-- [\[arXiv\]](https://arxiv.org/abs/2212.12822)
+  [\[arXiv\]](https://arxiv.org/abs/2212.12822)
   [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
