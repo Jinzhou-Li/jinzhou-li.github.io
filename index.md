@@ -36,14 +36,15 @@ Email: jinzhoul@stanford.edu
 
 - **On the error control of invariant causal prediction.**
   <br>**Jinzhou Li** and Jelle J. Goeman (2024).
-  Preprint.
+  Working paper.
   <br>[\[arXiv\]](https://arxiv.org/abs/2401.03834)
   [\[codes\]](https://github.com/Jinzhou-Li/ICPsimultaneousBounds)
 
 - **Simultaneous false discovery proportion bounds via knockoffs and closed testing.**
   <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2024).
   *Journal of the Royal Statistical Society, Series B, 86(4): 966-986.*
-  <br>[\[arXiv\]](https://arxiv.org/abs/2212.12822)
+  <br>[\[published version\]](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext)
+- [\[arXiv\]](https://arxiv.org/abs/2212.12822)
   [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
