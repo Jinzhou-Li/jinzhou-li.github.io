@@ -26,8 +26,8 @@ Email: jinzhoul@stanford.edu
 
 <br />
 
-### Publications and preprints
-## Statistical methodology
+## Publications and preprints
+### Statistical methodology
 - **Root cause discovery via permutations and Cholesky decomposition.**
   <br>**Jinzhou Li**, Benjamin B. Chu, Ines F. Scheller, Julien Gagneur, Marloes H. Maathuis (2024).
   Preprint.
@@ -60,7 +60,7 @@ Email: jinzhoul@stanford.edu
   [\[arXiv\]](https://arxiv.org/abs/1908.11611)
   [\[codes\]](https://github.com/Jinzhou-Li/GGMKnockoffFilter-R)
 
-## Applied Collaborations
+### Applied Collaborations
 - **estimateR: An R package to estimate and monitor the effective reproductive number.**
   <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, Adrian Lison, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2023).
   *BMC Bioinformatics 24, 310.*
