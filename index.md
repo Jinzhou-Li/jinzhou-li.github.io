@@ -28,6 +28,10 @@ Email: jinzhoul@stanford.edu
 
 ## Publications and preprints
 ### Statistical methodology
+- **Which FDR control procedure should we choose?**
+  <br>**Jinzhou Li**, Yuansi Chen, Emmanuel Candès (2024+).
+  Working paper.
+
 - **Root cause discovery via permutations and Cholesky decomposition.**
   <br>**Jinzhou Li**, Benjamin B. Chu, Ines F. Scheller, Julien Gagneur, Marloes H. Maathuis (2024).
   Preprint.
@@ -36,7 +40,7 @@ Email: jinzhoul@stanford.edu
 
 - **On the error control of invariant causal prediction.**
   <br>**Jinzhou Li** and Jelle J. Goeman (2024).
-  Working paper.
+  Preprint.
   <br>[\[arXiv\]](https://arxiv.org/abs/2401.03834)
   [\[codes\]](https://github.com/Jinzhou-Li/ICPsimultaneousBounds)
 
