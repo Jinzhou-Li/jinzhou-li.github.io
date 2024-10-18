@@ -29,7 +29,7 @@ Email: jinzhoul@stanford.edu
 ## Publications and preprints
 ### Statistical methodology
 - **Which FDR control procedure should we choose?**
-  <br>**Jinzhou Li**, Yuansi Chen, Emmanuel Candès (2024+).
+  <br>**Jinzhou Li<sup>\*</sup>**, Yuansi Chen<sup>\*</sup>, Emmanuel Candès (2024+).
   Working paper.
 
 - **Root cause discovery via permutations and Cholesky decomposition.**
