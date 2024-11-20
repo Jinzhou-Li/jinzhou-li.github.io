@@ -1,10 +1,9 @@
 ---
 layout: research
-title: 
+title: Publications and preprints
 slug: /research
 ---
 
-## Publications and preprints
 ### Statistical methodology
 <!---
 - **Which FDR control procedure should we choose?**
