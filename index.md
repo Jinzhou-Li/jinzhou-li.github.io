@@ -9,14 +9,6 @@ Hi, I am a postdoctoral fellow in the [Statistics Department](https://statistics
 Previously I was a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the Department of Mathematics at ETH Zürich, 
 supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
 
-Email: jinzhoul@stanford.edu
-
-<br />
-
-<br />
-
-<br />
-
 My research focuses on developing reliable methodologies to uncover scientific insights from data. 
 In my current work, these insights take the form of conditional independence relations and causal mechanisms. 
 Examples include identifying genetic variants associated with a phenotype of interest conditional on other genetic variants, 
@@ -26,14 +18,13 @@ with rare diseases.
 This involves, for example, controlling the false discovery rate when the goal is to produce a single discovery set, or using simultaneous error bounds 
 if the task is more of an exploratory nature and requires more flexibility.
 
+Email: jinzhoul@stanford.edu
+
+
 
 <!---
 Here are my [CV](/assets/file/CV_JinzhouLi.pdf), [Github](https://github.com/Jinzhou-Li) and [Google Scholar](https://scholar.google.com/citations?user=xtPvl4UAAAAJ&hl=en&oi=ao).
  --->
 
 
-
-<!---  --->
-
-<br />
 
