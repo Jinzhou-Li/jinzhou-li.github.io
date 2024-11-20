@@ -12,11 +12,11 @@ supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis)
 My research focuses on developing reliable methodologies to uncover scientific insights from data. 
 In my current work, these scientific insights take the form of conditional independence relations and causal mechanisms. 
 Examples include identifying genetic variants associated with a phenotype of interest conditional on other genetic variants,
-modeling gene networks, estimating the causal effect of anthropogenic influences on extreme precipitation [(here)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252141), and discovering disease-causing genes in patients 
+estimating the causal effect of anthropogenic influences on extreme precipitation [(here)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252141), and discovering disease-causing genes in patients 
 with rare diseases [(here)](https://arxiv.org/abs/2410.12151).
-“Reliable” is achieved by incorporating error rate control into the developed methods, guaranteeing that the discoveries are largely correct. 
-This involves, for example, controlling the false discovery rate when the goal is to produce a single discovery set [(here)](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12430), or using simultaneous error bounds 
-if the task is more of an exploratory nature and requires more flexibility ([here](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext), [here](https://arxiv.org/abs/2401.03834)).
+“Reliable” is achieved by incorporating error rate control into the developed methods, ensuring that the discoveries are largely correct. 
+This includes controlling the false discovery rate when the goal is to produce a single discovery set [(here)](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12430), 
+or using simultaneous error bounds if the task is more of an exploratory nature and requires more flexibility ([here](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext), [here](https://arxiv.org/abs/2401.03834)).
 
 Email: jinzhoul@stanford.edu
 
