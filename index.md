@@ -19,7 +19,7 @@ This includes controlling the false discovery rate when the goal is to produce a
 or using simultaneous error bounds if the task is more of an exploratory nature and requires more flexibility ([here](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext), [here](https://arxiv.org/abs/2401.03834)).
 
 Email: jinzhoul@stanford.edu
-
+.
 
 
 <!---
