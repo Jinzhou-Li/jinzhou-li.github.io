@@ -8,6 +8,8 @@ header:
   pages:
     #- name: Home
     #  slug: /
+    - name: Research
+    - name: Talks
 
 footer:
   show_powered_by: true
