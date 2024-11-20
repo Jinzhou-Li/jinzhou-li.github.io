@@ -24,10 +24,10 @@ slug: /teaching
 
 - Amy Nguyen (2024, Stanford). Mentored her for one semester on various data science projects in the [Mentoring in Data Science program](https://dbds.stanford.edu/inclusive-mentoring-in-data-science/}{Inclusive).
 
-- Zhufeng Li (2021,  ETH Zürich). Co-supervised his master's thesis on *Model-X knockoff framework for Gaussian graphical models*.
+- Zhufeng Li (2021,  ETH Zürich). Co-supervised his master's thesis on "Model-X knockoff framework for Gaussian graphical models".
 
-- David Deuber (2020,  ETH Zürich). Co-supervised his master's thesis on *A quantile extrapolation approach for extreme quantile treatment effect estimation*.
+- David Deuber (2020,  ETH Zürich). Co-supervised his master's thesis on "A quantile extrapolation approach for extreme quantile treatment effect estimation".
 
-- Yll Haziri (2020,  ETH Zürich). Co-supervised his master's thesis  on *Unsupervised feature selection by autoencoders with local structure preservation*.
+- Yll Haziri (2020,  ETH Zürich). Co-supervised his master's thesis  on "Unsupervised feature selection by autoencoders with local structure preservation".
 	
-- Zheng Chen Man (2019,  ETH Zürich). Co-supervised his bachelor's thesis  on *Statistical models of outlier detection methods for RNA*.
+- Zheng Chen Man (2019,  ETH Zürich). Co-supervised his bachelor's thesis  on "Statistical models of outlier detection methods for RNA".
