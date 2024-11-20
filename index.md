@@ -5,11 +5,12 @@ profile_picture:
   alt: pic
 ---
 
-
+## Bio
 Hi, I am a postdoctoral fellow in the [Statistics Department](https://statistics.stanford.edu/) at Stanford University under the supervision of [Emmanuel Candès](https://candes.su.domains/). 
 Previously I was a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the Department of Mathematics at ETH Zürich, 
 supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
 
+## Research interests
 My research focuses on developing reliable methodologies to uncover scientific insights from data. 
 In my current work, these scientific insights take the form of conditional independence relations and causal mechanisms. 
 Examples include identifying genetic variants associated with a phenotype of interest conditional on other genetic variants,
