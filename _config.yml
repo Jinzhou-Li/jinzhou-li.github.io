@@ -10,6 +10,7 @@ header:
     #  slug: /
     - name: Research
     - name: Talks
+    - name: Teaching
 
 footer:
   show_powered_by: true

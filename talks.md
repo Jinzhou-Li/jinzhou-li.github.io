@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: Talk
+title: 
 slug: /talk
 ---
 
