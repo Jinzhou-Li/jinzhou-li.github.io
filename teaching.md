@@ -1,10 +1,9 @@
 ---
 layout: teaching
-title: 
+title: Teaching Assistant at ETH Zürich
 slug: /teaching
 ---
 
-## Teaching Assistant at ETH Zürich
 - Student Seminar in Statistics: Inference in Some Non-Standard Regression Problems. (Sep. 2022 -- Dec. 2022)
 
 - Student Seminar in Statistics: Causality. (Feb. 2022 -- Jun. 2022)
