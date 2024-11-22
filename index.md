@@ -13,7 +13,7 @@ supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis)
 ## Research interests
 My research focuses on developing reliable methodologies to uncover scientific insights from data. 
 In my current work, these insights take the form of conditional independence relations and causal mechanisms. 
-Examples include identifying genetic variants associated with a phenotype of interest conditional on other genetic variants [(here)](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext,
+Examples include identifying genetic variants associated with a phenotype of interest conditional on other genetic variants [(here)](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext),
 estimating the causal effect of anthropogenic influences on extreme precipitation [(here)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252141), and discovering disease-causing genes in patients 
 with rare diseases (find the ultimate cause of an observed effect, see [here](https://arxiv.org/abs/2410.12151)).
 “Reliable” is achieved by incorporating error rate control into the developed methods, ensuring that the discoveries are largely correct. 
