@@ -10,6 +10,8 @@ Hi, I am a postdoctoral fellow in the [Statistics Department](https://statistics
 Previously I was a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the Department of Mathematics at ETH Zürich, 
 supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
 
+<br />
+
 ## Research interests
 My research focuses on developing reliable methodologies to uncover scientific insights from data. 
 In my current work, these insights take the form of conditional independence relations and causal mechanisms. 
@@ -22,8 +24,6 @@ or using simultaneous error bounds if the task is more of an exploratory nature 
 
 Email: jinzhoul@stanford.edu
 
-
-<br />
 
 <br />
 
