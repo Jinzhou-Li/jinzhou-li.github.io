@@ -20,7 +20,7 @@ estimating the causal effect of a college education on extremely high wages [(he
 with rare diseases (find the ultimate cause of an observed effect, see [here](https://arxiv.org/abs/2410.12151)).
 “Reliable” is achieved by incorporating error rate control into the developed methods, ensuring that the discoveries are largely correct. 
 This includes controlling the false discovery rate when the goal is to produce a single discovery set [(here)](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12430), 
-or using simultaneous error bounds if the task is more of an exploratory nature and requires more flexibility ([here](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext), [here](https://arxiv.org/abs/2401.03834)).
+or using simultaneous error bounds to check many discovery sets if the task is more of an exploratory nature ([here](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext), [here](https://arxiv.org/abs/2401.03834)).
 
 Email: jinzhoul@stanford.edu
 
