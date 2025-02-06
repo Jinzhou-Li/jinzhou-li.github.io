@@ -13,7 +13,7 @@ slug: /research
 
 - **Root cause discovery via permutations and Cholesky decomposition.**
   <br>**Jinzhou Li**, Benjamin B. Chu, Ines F. Scheller, Julien Gagneur, Marloes H. Maathuis (2024).
-  Preprint.
+  Under review at the Journal of the Royal Statistical Society, Series B (JRSS-B).
   <br>[\[arXiv\]](https://arxiv.org/abs/2410.12151)
   [\[codes\]](https://github.com/Jinzhou-Li/RootCauseDiscovery)
 
