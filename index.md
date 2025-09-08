@@ -6,12 +6,12 @@ profile_picture:
 ---
 
 ## Bio
-Hi, I am a postdoctoral fellow in the [Statistics Department](https://statistics.stanford.edu/) at Stanford University under the supervision of [Emmanuel Candès](https://candes.su.domains/). 
-Previously I was a PhD student at the [Seminar for Statistics](https://math.ethz.ch/sfs) in the Department of Mathematics at ETH Zürich, 
-supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
+Hi, I am an assistant professor in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the National University of Singapore (NUS). Previously, I was a postdoctoral fellow in the [Statistics Department](https://statistics.stanford.edu/) at Stanford University, advised by [Emmanuel Candès](https://candes.su.domains/). I obtained my PhD in the [Seminar for Statistics](https://math.ethz.ch/sfs), Department of Mathematics, from ETH Zürich, 
+where I was supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
 
 <br />
 
+<!---
 ## Research interests
 My research focuses on developing reliable methodologies to uncover scientific insights from data. 
 In my current work, these insights take the form of conditional independence relations and causal mechanisms. 
@@ -22,9 +22,9 @@ with rare diseases (i.e., finding the ultimate cause of an observed effect, see 
 “Reliable” is achieved by incorporating error rate control into the developed methods, ensuring that the discoveries are largely correct. 
 This includes controlling the widely used false discovery rate [(here)](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12430) 
 or using simultaneous error bounds to check many sets if the task is more of an exploratory nature ([here](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext), [here](https://arxiv.org/abs/2401.03834)).
+ --->
 
-
-Email: jinzhoul@stanford.edu
+Email: jinzhouli@nus.edu.sg
 
 
 <br />
