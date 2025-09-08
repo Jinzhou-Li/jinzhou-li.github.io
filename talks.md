@@ -4,6 +4,14 @@ title: Talks
 slug: /talk
 ---
 
+- Root cause discovery via permutations and Cholesky decomposition. The 19th International Joint Conference on CFE and CMStatistics, Birkbeck, University of London, UK. December 2025.
+	
+- Root cause discovery via permutations and Cholesky decomposition. IMS Young Mathematical Scientists Forum, National University of Singapore, Singapore. November 2025.
+	
+- Simultaneous false discovery proportion bounds via knockoffs and closed testing. The 13th International Conference on Multiple Comparison Procedures, Philadelphia, USA. August 2025.
+	
+- Root cause discovery via permutations and Cholesky decomposition. Statistics Seminar, Stanford, USA. July 2025.
+
 - Root cause discovery via permutations and Cholesky decomposition. [The Rising Stars in Data Science workshop](https://datascience.ucsd.edu/rising-stars-in-data-science/#1717799458312-0ad03679-5d13), UC San Diego, USA. November 2024.
 
 - Root cause discovery via permutations and Cholesky decomposition. [Online Causal Inference Seminar](https://sites.google.com/view/ocis/past-talks?authuser=0), Online. November 2024.
