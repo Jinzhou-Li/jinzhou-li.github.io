@@ -47,8 +47,8 @@ slug: /research
 ### Applied Collaborations
 
 - **Uncovering Heterogeneous Effects via Localized Feature Selection.**
-  <br>JX. Liu, J. Gu, Z. Chen, B. Chu, L. Liu, T. Morrison, R.R Butler III, J. Edelson, **J. Li**, F.M Longo, H. Tang, I. Ionita-laza, C. Sabatti, E. Candes, Z. He (2025).
-    <br>[\[mbioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.06.03.657761v1)
+  <br>Xiaoxia Liu, Jiaqi Gu, Zhaomeng Chen, Benjamin Chu, Linxi Liu, Tim Morrison, Robert R. Butler III, Jacob Edelson, **Jinzhou Li**, Frank M. Longo, Hua Tang, Iuliana Ionita-laza, Chiara Sabatti, Emmanuel Candès, Zihuai He (2025).
+   <br>[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.06.03.657761v1)
 
 - **estimateR: An R package to estimate and monitor the effective reproductive number.**
   <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, Adrian Lison, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2023).
