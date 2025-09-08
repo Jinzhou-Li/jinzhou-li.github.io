@@ -5,7 +5,6 @@ profile_picture:
   alt: pic
 ---
 
-## Bio
 Hi, I am an assistant professor in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the National University of Singapore (NUS). Previously, I was a postdoctoral fellow in the [Statistics Department](https://statistics.stanford.edu/) at Stanford University, advised by [Emmanuel Candès](https://candes.su.domains/). I obtained my PhD in the [Seminar for Statistics](https://math.ethz.ch/sfs), Department of Mathematics, from ETH Zürich, 
 where I was supervised by [Marloes Maathuis](https://sites.google.com/view/marloes-maathuis) and [Nicolai Meinshausen](https://stat.ethz.ch/~nicolai/).
 

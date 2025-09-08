@@ -45,6 +45,10 @@ slug: /research
   [\[codes\]](https://github.com/Jinzhou-Li/GGMKnockoffFilter-R)
 
 ### Applied Collaborations
+-**Uncovering Heterogeneous Effects via Localized Feature Selection.**
+  <br>JX. Liu, J. Gu, Z. Chen, B. Chu, L. Liu, T. Morrison, R.R Butler III, J. Edelson, **J. Li**, F.M Longo, H. Tang, I. Ionita-laza, C. Sabatti, E. Candes, Z. He (2025).
+    <br>[\[mbioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.06.03.657761v1)
+
 - **estimateR: An R package to estimate and monitor the effective reproductive number.**
   <br>Jérémie Scire, Jana S. Huisman, Ana Grosu, Daniel C. Angst, Adrian Lison, **Jinzhou Li**, Marloes H. Maathuis, Sebastian Bonhoeffer and Tanja Stadler (2023).
   *BMC Bioinformatics 24, 310.*
