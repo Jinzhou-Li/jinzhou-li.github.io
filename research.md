@@ -12,8 +12,8 @@ slug: /research
  --->
 
 - **Root cause discovery via permutations and Cholesky decomposition.**
-  <br>**Jinzhou Li**, Benjamin B. Chu, Ines F. Scheller, Julien Gagneur, Marloes H. Maathuis (2024).
-  Under review at the Journal of the Royal Statistical Society, Series B (JRSS-B).
+  <br>**Jinzhou Li**, Benjamin B. Chu, Ines F. Scheller, Julien Gagneur, Marloes H. Maathuis (2025).
+  Journal of the Royal Statistical Society, Series B, accepted.
   <br>[\[arXiv\]](https://arxiv.org/abs/2410.12151)
   [\[codes\]](https://github.com/Jinzhou-Li/RootCauseDiscovery)
 
@@ -25,21 +25,21 @@ slug: /research
 
 - **Simultaneous false discovery proportion bounds via knockoffs and closed testing.**
   <br>**Jinzhou Li**, Marloes H. Maathuis and Jelle J. Goeman (2024).
-  *Journal of the Royal Statistical Society, Series B (JRSS-B), 86(4): 966-986.*
+  *Journal of the Royal Statistical Society, Series B, 86(4): 966-986.*
   <br>[\[published version\]](https://academic.oup.com/jrsssb/article-abstract/86/4/966/7618756?redirectedFrom=fulltext)
   [\[arXiv\]](https://arxiv.org/abs/2212.12822)
   [\[codes\]](https://github.com/Jinzhou-Li/KnockoffSimulFDP)
 
 - **Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions.**
   <br>David Deuber<sup>\*</sup>, **Jinzhou Li<sup>\*</sup>**, Sebastian Engelke and Marloes H. Maathuis (2023).
-  *Journal of the American Statistical Association (JASA), 119(547): 2206-2216.*
+  *Journal of the American Statistical Association, 119(547): 2206-2216.*
   <br>[\[published version\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252141)
   [\[arXiv\]](https://arxiv.org/abs/2110.06627)
   [\[codes\]](https://github.com/ddeuber/extremal-qte-heavy-tailed)
 
 - **GGM knockoff filter: False discovery rate control for Gaussian graphical models.**
   <br>**Jinzhou Li** and Marloes H. Maathuis (2021).
-  *Journal of the Royal Statistical Society, Series B (JRSS-B), 83, 534-558.*
+  *Journal of the Royal Statistical Society, Series B, 83, 534-558.*
   <br>[\[published version\]](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12430)
   [\[arXiv\]](https://arxiv.org/abs/1908.11611)
   [\[codes\]](https://github.com/Jinzhou-Li/GGMKnockoffFilter-R)
