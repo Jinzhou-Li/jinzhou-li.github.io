@@ -22,7 +22,7 @@ slug: /teaching
 
 ## Supervision and Mentoring
 
-- Amy Nguyen (2024, Stanford). Mentored her for one semester on various data science projects in the [Mentoring in Data Science program](https://dbds.stanford.edu/inclusive-mentoring-in-data-science/}{Inclusive).
+- Amy Nguyen (2024, Stanford). Mentored her for one semester on various data science projects in the Mentoring in Data Science program.
 
 - Zhufeng Li (2021,  ETH Zürich). Co-supervised his master's thesis on "Model-X knockoff framework for Gaussian graphical models".
 
