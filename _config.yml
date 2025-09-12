@@ -8,7 +8,7 @@ header:
   pages:
     #- name: Home
     #  slug: /
-    - name: Research
+    # - name: Research
     - name: Talks
     - name: Teaching
 
