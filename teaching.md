@@ -1,8 +1,12 @@
 ---
 layout: teaching
-title: Teaching Assistant at ETH Zürich
+title: Teaching at NUS
 slug: /teaching
 ---
+
+- ST5211X Sampling from Finite Populations (Fall 2025)
+
+## Teaching Assistant at ETH Zürich
 
 - Student Seminar in Statistics: Inference in Some Non-Standard Regression Problems. (Sep. 2022 -- Dec. 2022)
 
